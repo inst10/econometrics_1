@@ -7,18 +7,6 @@ editor: visual
 
 ```{r}
 library(tidyverse)
-nama <- read_csv("~/econometrics/nama.csv")
-View(nama)
-```
-
-```{r}
-library(tidyverse)
-demo <- read_csv("~/econometrics/demo.csv")
-View(demo)
-```
-
-```{r}
-library(tidyverse)
 demo <- read_csv("demo.csv")
 View(demo)
 ```
