@@ -1,0 +1,18 @@
+---
+title: "econometrics_1"
+author: "inst10_ehs1901"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+nama <- read_csv("~/econometrics/nama.csv")
+View(nama)
+```
+
+```{r}
+library(tidyverse)
+demo <- read_csv("~/econometrics/demo.csv")
+View(demo)
+```
