@@ -16,3 +16,15 @@ library(tidyverse)
 demo <- read_csv("~/econometrics/demo.csv")
 View(demo)
 ```
+
+```{r}
+library(tidyverse)
+demo <- read_csv("demo.csv")
+View(demo)
+```
+
+```{r}
+library(tidyverse)
+nama <- read_csv("nama.csv")
+View(nama)
+```
