@@ -16,3 +16,6 @@ library(tidyverse)
 nama <- read_csv("nama.csv")
 View(nama)
 ```
+
+Hei.
+Tester om du ser dette
